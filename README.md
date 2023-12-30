@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a target="\_blank>
+\_
+
 <img align="center" alt="Coding" width="full" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
-</a>
 
 <!-- <a target="_blank">
   <img align="right" height="200" width="400" alt="GIF" src="https://ansarshome.files.wordpress.com/2021/09/d3464a4351fdf340ccb6bb37c281381a.gif">
