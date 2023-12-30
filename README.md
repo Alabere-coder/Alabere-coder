@@ -1,23 +1,19 @@
-### <h1 align="center"> Hi there 👋 I'm Alabere</h1>
+### <h1 align="center">✨ Hi there 👋 I'm Alabere ✨</h1>
 
 <hr />
 
-<!--
-**Alabere-coder/Alabere-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on Front end Technologies
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <img align="center" alt="Coding" width="full" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
+
+I'm a frontend engineer who loves programming
+
+- 🔭 I’m currently working on React-Native
+<!-- - 🌱 I’m currently learning  -->
+- 👯 I’m looking to collaborate on Front end Technologies
+- 🤔 I’m looking forwaard to connect with some fantastic people.
+- 📫 How to reach me: ...
+- ⚡ Fun fact: I'm a Frontend developer who never leaves the web 😮
+
+<hr/>
 
 # 💻 Tech Stack:
 
