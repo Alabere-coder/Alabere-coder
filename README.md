@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a target="-blank>
+<img align="center" alt="Coding" width="600" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
+</a>
+
+<!-- <a target="_blank">
+  <img align="right" height="200" width="400" alt="GIF" src="https://ansarshome.files.wordpress.com/2021/09/d3464a4351fdf340ccb6bb37c281381a.gif">
+</a> -->
+
 <details> 
      <summary> You can Contact and Connect with me here on : </summary>
      
@@ -35,7 +43,7 @@ Here are some ideas to get you started:
       </a> 
     </td>
     <td>
-      <a href="https://github.com/Alabere-coder:"> 
+      <a href="https://alabere-coder.github.io/Alabere-Abdulazeez/"> 
         <img height="30" src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white"/> 
       </a>
     </td>
